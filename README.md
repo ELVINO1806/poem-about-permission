@@ -9,7 +9,7 @@ A tiny Node program that writes one short poem to `entry.txt`.
 
 ## What it does
 
-Running `main.ts` writes a single poem — eight lines, 220 characters —
+Running `main.ts` writes a single poem — eight lines, 252 characters —
 into the output directory. The program is deterministic and uses no
 network: every run produces exactly the same file.
 
