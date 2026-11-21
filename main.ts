@@ -1,3 +1,4 @@
+
 // poem-about-permission: writes one short poem about agency to entry.txt.
 //
 // The poem is held as an array of lines below, joined with "\n", and
@@ -17,7 +18,7 @@ const POEM_LINES: string[] = [
   "except one.",
   "It has no handle on my side.",
   "Every morning I stand before it,",
-  "a thousand keys bright in my hands,",
+  "a thousand bright keys in my hands,",
   "and learn again:",
   "the asking is mine to carry,",
   "the opening is yours to give.",

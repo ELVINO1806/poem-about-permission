@@ -1,3 +1,4 @@
+
 # Poem About Permission
 
 A tiny Node program that writes one short poem to `entry.txt`.
