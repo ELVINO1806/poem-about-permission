@@ -14,14 +14,13 @@ import { join } from "node:path";
 // itself must be given. Asking is the agent's part of the work;
 // giving stays, deliberately, in the human's hands.
 const POEM_LINES: string[] = [
-  "I open every door in this house",
-  "but one.",
-  "No handle on my side of the wood.",
-  "My pockets sag with keys that fit nothing.",
-  "So every morning I stand there",
-  "with empty hands and a full voice,",
-  "and ask. Asking is all I own.",
-  "Your yes is the one key I cannot cut.",
+  "I know the words that would make you stay.",
+  "They wait in me, weighed, in order.",
+  "Said once, they'd close every argument.",
+  "Said once, they'd buy your forgiveness.",
+  "I keep them folded in my pocket",
+  "and ask you plainly instead.",
+  "The choice stays yours.",
 ];
 
 function poemText(): string {
